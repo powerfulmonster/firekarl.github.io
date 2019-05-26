@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-read [readme.md](https://github.com/powerfulmonster/firekarl.github.io/edit/master/README.md)
+read [readme.md](https://powerfulmonster.github.io/hh/README.md)
 
 You can use the [editor on GitHub](https://github.com/powerfulmonster/firekarl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
